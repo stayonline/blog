@@ -4,6 +4,5 @@
 
 layout: home
 ---
-
 ![StayOnline Header](/assets/images/header.jpg)
 Welcome to The StayOnline Wire.  Follow along for news and updates from The Power Cord Company - StayOnline.

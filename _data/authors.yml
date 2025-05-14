@@ -1,27 +1,32 @@
 dan-gilbert:
   name: Daniel Gilbert
-  bio: "Daniel Gilbert is the CEO of StayOnline."
+  title: "Daniel Gilbert is the CEO of StayOnline."
+  bio: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   avatar: /assets/images/daniel-gilbert.jpg
   linkedin: https://www.linkedin.com/in/daniel-gilbert-cta-89394119/
   url: /authors/daniel-gilbert/
 
 kate-linehan:
   name: Kate Linehan
-  bio: "Kate Linehan is VP of Sales at StayOnline."
+  title: "Kate Linehan is VP of Sales at StayOnline."
+  bio: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   avatar: /assets/images/kate-linehan.jpg
   linkedin: https://www.linkedin.com/in/katelinehan/
   url: /authors/kate-linehan/
 
-jim-smits:
-  name: Jim Smits
-  bio: "Jim Smits is the Director of Ecommerce at StayOnline."
-  avatar: /assets/images/jim-smits.jpg
-  linkedin: https://www.linkedin.com/in/jim-smits-93633b165/
-  url: /authors/jim-smits/
 
 hal-mahler:
   name: Hal Mahler
-  bio: "Hal Mahler is the VP of Product at StayOnline."
+  title: "Hal Mahler is VP of Product at StayOnline."
+  bio: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   avatar: /assets/images/hal-mahler.jpg
   linkedin: https://www.linkedin.com/in/hal-mahler/
+
+jim-smits:
+  name: Jim Smits
+  title: "Jim Smits is Director of Ecommerce at StayOnline."
+  bio: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  avatar: /assets/images/jim-smits.jpg
+  linkedin: https://www.linkedin.com/in/jim-smits-93633b165/
+  url: /authors/jim-smits/
   url: /authors/hal-mahler/
