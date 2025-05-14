@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![We Do Power Cords So You Don't Have To](https://www.stayonline.com/images/we-do-power-cords-2.gif)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+_The StayOnline Wire_ is the blog for [StayOnline](https://wwww.stayonline.com). It is the place to go to get news and updates from StayOnline.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+StayOnline, The Power Cord Company, is the trusted leader in power cords. We empower our customers to optimize their power cord supply chain. With superior customer service, inventory and industry knowledge, **we do power cords so you don't have to**. 
 
-
-[jekyll-organization]: https://github.com/jekyll

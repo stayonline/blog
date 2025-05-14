@@ -1,0 +1,25 @@
+---
+layout: default
+title: Our Contributors
+permalink: /authors/
+---
+
+<h1>Meet the Contributors</h1>
+<div class="author-grid" style="display: flex; flex-wrap: wrap; gap: 2rem; margin-top: 2rem;">
+    {% for author_slug in site.data.authors %}
+    {% assign slug = author_slug[0] %}
+    {% assign author = author_slug[1] %}
+    <a href="/authors/{{ slug }}/"
+        style="text-decoration: none; color: inherit; flex: 1 1 200px; max-width: 200px; text-align: center;">
+        <div class="author-card" style="border: 1px solid #ddd; border-radius: 8px; padding: 1rem;">
+            <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; margin: 0 auto 0.5rem;">
+                <img src="{{ author.avatar }}" alt="{{ author.name }}"
+                    style="width: 100%; height: auto; display: block;" />
+            </div>
+
+            <h3 style="margin: 0.5rem 0 0;">{{ author.name }}</h3>
+            <p style="font-size: 0.9rem; color: #666;">{{ author.bio | truncate: 100 }}</p>
+        </div>
+    </a>
+    {% endfor %}
+</div>

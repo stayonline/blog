@@ -11,16 +11,33 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
       {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}</p>
+      {% assign author = site.data.authors[page.author] %}
+      • <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <a href="{{ author.url }}" class="p-author h-card" itemprop="name">{{ author.name }}</a>
+      </span>
+      {%- endif -%}
+
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
 
+  {% if author %}
+  <hr>
+  <div class="author-box">
+    <img src="{{ author.avatar }}" alt="{{ author.name }}" class="author-avatar" />
+    <div class="author-bio">
+      <h3>About {{ author.name }}</h3>
+      <p>{{ author.bio }}</p>
+      <a href="{{ author.url }}">View all posts</a>
+    </div>
+  </div>
+  {% endif %}
+
+
   {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
+  {%- include disqus_comments.html -%}
   {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>

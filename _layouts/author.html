@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ site.title }} | Author: {{ author.name }}</title>
+    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+</head>
+
+<body>
+    {% include header.html %}
+
+    {% assign author = site.data.authors[page.name] %}
+
+    <main class="author-profile container" style="max-width: 800px; margin: 0 auto; padding: 2rem;">
+        <section class="author-info" style="text-align: center; margin-bottom: 2rem;">
+            {% if author.avatar %}
+            <div style="width: 120px; height: 120px; border-radius: 50%; overflow: hidden; margin: 0 auto 1rem;">
+                <img src="{{ author.avatar }}" alt="{{ author.name }}"
+                    style="width: 100%; height: auto; display: block;" />
+            </div>
+            {% endif %}
+            <h1 style="margin-bottom: 0.5rem;">{{ author.name }}</h1>
+            <p style="font-size: 1.1rem; color: #555;">{{ author.bio }}</p>
+        </section>
+
+        <section class="author-posts">
+            <h2 style="border-bottom: 2px solid #ccc; padding-bottom: 0.5rem;">Posts by {{ author.name }}</h2>
+            <ul style="list-style: none; padding: 0;">
+                {% for post in site.posts %}
+                {% if post.author == page.name %}
+                <li style="margin-bottom: 1rem;">
+                    <a href="{{ post.url | relative_url }}" style="font-weight: bold; font-size: 1.1rem;">{{ post.title
+                        }}</a><br />
+                    <small style="color: #888;">{{ post.date | date: "%B %d, %Y" }}</small>
+                </li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+        </section>
+    </main>
+
+    {% include footer.html %}
+</body>
+
+</html>
