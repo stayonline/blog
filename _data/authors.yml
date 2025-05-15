@@ -42,7 +42,11 @@ jacob-bechtol:
 jim-smits:
   name: Jim Smits
   title: "Jim Smits is Director of Ecommerce at StayOnline."
-  bio: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  bio: >- 
+    <p><b>Jim Smits</b> has been working with power cords in some way, shape, or form since 2005. A longtime StayOnline team member, Jim has worn many hats—starting in the warehouse, moving through sales and production, and now serving as Director of Ecommerce.</p>
+
+    <p>In addition to his passion for power cords, Jim may be found sneaking in a little fishing with his kids when the workday ends.</p>
+
   avatar: /assets/images/jim-smits.jpg
   linkedin: https://www.linkedin.com/in/jim-smits-93633b165/
   url: /authors/jim-smits/
