@@ -1,4 +1,4 @@
-dan-gilbert:
+daniel-gilbert:
   name: Daniel Gilbert
   title: "Daniel Gilbert is the CEO of StayOnline."
   bio: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
@@ -21,6 +21,23 @@ hal-mahler:
   bio: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   avatar: /assets/images/hal-mahler.jpg
   linkedin: https://www.linkedin.com/in/hal-mahler/
+  url: /authors/hal-mahler/
+
+myke-trimarchi:
+  name: Myke Trimarchi
+  title: "Myke Trimarchi is VP of Operations at StayOnline."
+  bio: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  avatar: /assets/images/myke-trimarchi.jpg
+  linkedin: https://www.linkedin.com/in/myke-trimarchi-a61893b7/
+  url: /authors/myke-trimarchi/
+
+jacob-bechtol:
+  name: Jacob Bechtol
+  title: "Jacob Bechtol is an Electrical Engineer at StayOnline."
+  bio: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  avatar: /assets/images/jacob-bechtol.jpg
+  linkedin: https://www.linkedin.com/in/jacob-bechtol/
+  url: /authors/jacob-bechtol/
 
 jim-smits:
   name: Jim Smits
@@ -29,4 +46,4 @@ jim-smits:
   avatar: /assets/images/jim-smits.jpg
   linkedin: https://www.linkedin.com/in/jim-smits-93633b165/
   url: /authors/jim-smits/
-  url: /authors/hal-mahler/
+  
