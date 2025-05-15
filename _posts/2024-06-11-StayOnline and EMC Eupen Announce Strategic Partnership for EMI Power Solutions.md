@@ -7,7 +7,7 @@ description: StayOnline is pleased to announce a strategic partnership with EMC 
 author: daniel-gilbert
 pressrelease: "true"
 ---
-![Graphic showing StayOnline and EMC Eupen logos and Associated Products.](/assets/images/posts/emc_eupen_stayonline.png "EMC Eupen |  StayOnline")
+![Graphic showing StayOnline and EMC Eupen logos and Associated Products.](/assets/images/posts/emc_eupen_stayonline.png "EMC Eupen StayOnline")
 
 StayOnline is pleased to announce a strategic partnership with EMC Eupen, the world's leading supplier of EMI/RFI filtered power cords, shielded power cords, and ferrite coated cables. This collaboration represents a significant advancement in our commitment to providing top-tier power solutions across a variety of demanding industries, including military, government, and industrial sectors.
 

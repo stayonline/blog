@@ -7,7 +7,7 @@ description: Extension cords are everywhere - under desks, out in the yard, stru
 author: jacob-bechtol
 thumbnail:
 ---
-![Graphic showing text that says  Stay Safe: Three things to know about extension cords.](/assets/images/posts/sol_stay_safe_updated.jpg "Extension Cords - Three Things to Know")
+![Graphic showing text that says  Stay Safe: Three things to know about extension cords.](/assets/images/posts/SOL_Stay_Safe_updated.jpg "Extension Cords - Three Things to Know")
 
 ## Extension Cords: Handy, Misunderstood, and Sometimes Dangerous
 
