@@ -21,6 +21,9 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
+    {% unless page.pressrelease %}
+    For more information, you can reach us at <a href="tel:888-346-4688">888-346-4688</a> or by email at <a href="mailto:sales@stayonline.com">sales@stayonline.com</a>.
+    {% endunless %}
   </div>
 
   {% if author %}
