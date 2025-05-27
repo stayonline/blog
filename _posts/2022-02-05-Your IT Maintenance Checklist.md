@@ -2,7 +2,9 @@
 layout: post
 title: Your IT Maintenance Checklist
 date: 2022-02-05
-categories: it data-center
+tags:
+  - it
+  - data-center
 description: Ensuring business continuity starts with making sure you are taking care of your IT. Businesses, all businesses, are highly dependent on their IT. This year the global budget for business IT is expected to be about $3.92 trillion.
 author:
 ---

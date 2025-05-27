@@ -22,21 +22,32 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
     {% unless page.pressrelease %}
-    For more information, you can reach us at <a href="tel:888-346-4688">888-346-4688</a> or by email at <a href="mailto:sales@stayonline.com">sales@stayonline.com</a>.
+    For more information, you can reach us at <a href="tel:888-346-4688">888-346-4688</a> or by email at <a
+      href="mailto:sales@stayonline.com">sales@stayonline.com</a>.
     {% endunless %}
   </div>
 
+{% if page.tags %}
+  <div class="post-tags">
+    {% for tag in page.tags %}
+      <a class="tag-badge" href="/tags/{{ tag | slugify }}/">#{{ tag }}</a>
+    {% endfor %}
+  </div>
+{% endif %}
+
   {% if author %}
   <hr>
-  <div class="author-box">
-    <img src="{{ author.avatar }}" alt="{{ author.name }}" class="author-avatar" />
+  <div class="author-box" style="display: flex; align-items: center; gap: 1rem; margin: 2rem 0;">
+    <img src="{{ author.avatar }}" alt="{{ author.name }}" class="author-avatar"
+      style="width: 120px; border-radius: 50%; object-fit: cover;" />
     <div class="author-bio">
-      <h3>About {{ author.name }}</h3>
-      <p>{{ author.bio }}</p>
+      <h3 style="margin: 0 0 0.5rem;">About {{ author.name }}</h3>
+      <p style="margin: 0 0 0.5rem;">{{ author.bio }}</p>
       <a href="{{ author.url }}">View all posts</a>
     </div>
   </div>
   {% endif %}
+
 
 
   {%- if site.disqus.shortname -%}

@@ -2,7 +2,9 @@
 layout: post
 title: Saf-D-Grid Power Cords
 date: 2024-12-10
-categories: saf-d-grid power-cords
+tags:
+  - saf-d-grid
+  - power-cords
 description: The Saf-D-Grid plug and receptacle system, by Anderson Power™, is a unique solution for safe and efficient power delivery.
 author: hal-mahler
 thumbnail:

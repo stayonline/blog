@@ -2,7 +2,8 @@
 layout: post
 title: "Choosing The Right Power Cord: A Simple Guide"
 date: 2024-07-02
-categories: power-cords
+tags:
+  - power-cords
 description: Selecting the appropriate power cord is crucial for ensuring the reliability and efficiency of your equipment. Whether you're setting up a new server rack or organizing your workspace, following these five key steps can help you make the right choice.
 author: kate-linehan
 thumbnail:

@@ -2,7 +2,11 @@
 layout: post
 title: Small Business and IT Upgrades
 date: 2021-12-22
-categories: infrastructure power-cords it data-center
+tags:
+  - infrastructure
+  - power-cords
+  - it
+  - data-center
 description: Small businesses that deploy enterprise IT systems are regularly upgrading their systems, from simple changes like securing their power cords to bigger changes like new software, hardware, and more. What should you be doing to upgrade your business IT?
 author: daniel-gilbert
 ---

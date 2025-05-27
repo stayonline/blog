@@ -2,7 +2,8 @@
 layout: post
 title: "SecureSleeves: The Smart Way to Upgrade Existing Power Cords"
 date: 2024-01-30
-categories: power-cords
+tags:
+  - power-cords
 description: In today's mission critical environments, ensuring secure power connections is crucial. A loose connection can easily disrupt normal operations. While locking power cords offer a robust solution, they represent a significant investment, especially if you're already equipped with a substantial inventory of standard cords.
 author: kate-linehan
 thumbnail:

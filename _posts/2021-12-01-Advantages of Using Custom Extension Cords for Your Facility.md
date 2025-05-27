@@ -2,7 +2,11 @@
 layout: post
 title: Advantages of Using Custom Extension Cords for Your Facility
 date: 2021-12-01
-categories: infrastructure power-cords it data-center
+tags:
+  - infrastructure
+  - power-cords
+  - it 
+  - data-center
 description: If you're managing a facility that uses a lot of electrical equipment, you may find yourself with a tangle of messy - and potentially dangerous - wires supplying all that power. If you think that you just have to live with the mess of extension cords because of the limitations caused by where your outlets are, guess again.
 author: myke-trimarchi
 ---

@@ -2,7 +2,9 @@
 layout: post
 title: Three Advantages of Ordering Custom Power Cords
 date: 2022-12-05
-categories: power-cords custom-cords
+tags:
+  - power-cords
+  - custom-cords
 description: When purchasing standard power cords, user options can be limited. Many power cords are available only in standard lengths, cord sizes and plug configurations. In many cases, this makes custom power cords a superior choice compared to standard power cords across a wide range of industries and applications.
 author: jim-smits
 thumbnail:

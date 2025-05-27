@@ -2,7 +2,9 @@
 layout: post
 title: Understanding NEMA Plug Types
 date: 2022-05-16
-categories: power-cords nema
+tags:
+  - power-cords
+  - nema
 description: The NEMA power cord may be a common choice for your power needs, but do you know what makes it special? With the growth of the power cord industry in 2022-and the revelation that power must be as efficient as it is adaptable, coupled with the fact that 55% of small businesses report that slow processing times are among their biggest challenges-it is no wonder that more attention is being paid to this type of standard cord.
 author: jacob-bechtol
 thumbnail:

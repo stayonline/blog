@@ -2,7 +2,10 @@
 layout: post
 title: Extension Cords - Three Things to Know
 date: 2025-04-29
-categories: power-cords safety
+tags:
+  - power-cords
+  - safety
+  - extension-cords
 description: Extension cords are everywhere - under desks, out in the yard, strung across the garage. But for something so common, they’re can also be dangerous. Used improperly, they can overheat, spark, and cause fires.
 author: jacob-bechtol
 thumbnail:

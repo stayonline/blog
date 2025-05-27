@@ -2,7 +2,9 @@
 layout: post
 title: "Hubbell: Where Wiring Devices and Imagination Meet"
 date: 2022-10-05
-categories: hubbell wiring-devices
+tags:
+  - hubbell
+  - wiring-devices
 description: Founded in 1888 by Harvey Hubbell II, Hubbell Incorporated is a company that manufactures electrical and electronic products for non-residential and residential construction, industrial and utility applications. Harvey Hubbell II was an inventor, entrepreneur and industrialist whose best-known inventions are the standard electrical plug and the pull-chain light socket.
 author: jim-smits
 thumbnail:

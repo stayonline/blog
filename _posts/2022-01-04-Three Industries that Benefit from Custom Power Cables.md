@@ -2,7 +2,9 @@
 layout: post
 title: Three Industries that Benefit from Custom Power Cables
 date: 2022-01-04
-categories: custom-cables power-cords
+tags:
+  - custom-cables
+  - power-cords
 description: |-
   Power cables are important, if not critical, tools in certain 
   industries. In fact, they're crucial in sustaining numerous industries 

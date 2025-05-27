@@ -2,7 +2,9 @@
 layout: post
 title: What's the Difference Between Assembled and Molded Power Cords?
 date: 2023-01-06
-categories: power-cords custom-cords
+tags:
+  - power-cords
+  - custom-cords
 description: We're glad you asked. If you are not as versed in all things power cords as we are at StayOnline, you may think that a power cord is a power cord is a power cord. We are here to tell you that not all cords are created equal (or are they?).
 author: hal-mahler
 thumbnail:

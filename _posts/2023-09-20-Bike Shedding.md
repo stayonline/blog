@@ -2,10 +2,7 @@
 layout: post
 title: Bike Shedding
 date: 2023-09-20
-categories: |-
-  Bike shedding (also known as the Law of Triviality) refers to the 
-  tendency for a team to spend an inordinate amount of time discussing and
-   debating trivial details, while ignoring more important issues.
+tags: 
 description: Bike shedding (also known as the Law of Triviality) refers to the tendency for a team to spend an inordinate amount of time discussing and debating trivial details, while ignoring more important issues.
 author: jim-smits
 thumbnail:

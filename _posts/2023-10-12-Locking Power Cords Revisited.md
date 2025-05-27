@@ -2,7 +2,9 @@
 layout: post
 title: Locking Power Cords Revisited
 date: 2023-10-12
-categories: power-cords locking-cords
+tags:
+  - power-cords
+  - locking-cords
 description: StayOnline has always been your one stop shop for all things power cord, and locking cords are no exception.
 author: kate-linehan
 thumbnail:

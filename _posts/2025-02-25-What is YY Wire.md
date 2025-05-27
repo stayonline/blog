@@ -2,7 +2,9 @@
 layout: post
 title: What is YY Wire?
 date: 2025-02-25
-categories: power-cords international-power
+tags:
+  - power-cords
+  - international-power
 description: Why YY wire? Say that three times fast. YY wire - certified for use in India - isn't widely known. Let's break down what it is and why it matters.
 author: hal-mahler
 thumbnail:

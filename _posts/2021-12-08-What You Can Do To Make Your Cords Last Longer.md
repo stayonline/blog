@@ -2,7 +2,9 @@
 layout: post
 title: What You Can Do To Make Your Cords Last Longer
 date: 2021-12-08
-categories: power-cords nema
+tags:
+  - power-cords
+  - nema
 description: Most power cords have two or three brass pins that connect to an appliance or a piece of equipment to complete an electrical circuit. Protecting those pins and the rest of the cord will ensure that your NEMA power cord is always ready. Let's review a few more ways you can protect your power cords.
 author: jacob-bechtol
 ---

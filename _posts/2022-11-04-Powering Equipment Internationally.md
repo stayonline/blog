@@ -2,7 +2,9 @@
 layout: post
 title: Powering Equipment Internationally
 date: 2022-11-04
-categories: power-cords international-power
+tags:
+  - power-cords
+  - international-power
 description: There are several challenges typically associated with electrical devices when traveling abroad, selling in a foreign market or installing equipment in a non-US data center. These issues usually have to do with voltage, receptacle types, hertz, current stability, approvals and even power cords.
 author: jim-smits
 thumbnail:

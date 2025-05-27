@@ -2,7 +2,9 @@
 layout: post
 title: 4 Benefits of Custom Extension Cords
 date: 2022-08-08
-categories: power-cords custom-cords
+tags:
+  - power-cords
+  - custom-cords
 description: Did you know that according to FinancesOnline, about 55% of small businesses have realized that they have less-than-ideal processing times? Because of this figure, technological applications that make operations more efficient were expected to grow in 2021 and 2022.
 author: jim-smits
 thumbnail:

@@ -2,7 +2,9 @@
 layout: post
 title: Data Center Solutions
 date: 2023-03-09
-categories: data-center power-cords
+tags:
+  - data-center
+  - power-cords
 description: In a data center, power cords are critical components that require careful consideration. With so many options available, it can be challenging to choose the right power cord for your needs. In this blog post, we will discuss the power cord solutions offered by StayOnline, which can help you ensure reliable and uninterrupted power connectivity in your data center.
 author: jim-smits
 thumbnail:

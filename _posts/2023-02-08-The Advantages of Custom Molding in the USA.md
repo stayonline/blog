@@ -2,7 +2,10 @@
 layout: post
 title: The Advantages of Custom Molding in the USA
 date: 2023-02-08
-categories: power-cords custom-cords usa
+tags:
+  - power-cords
+  - custom-cords
+  - usa
 description: As a business, consider the origin and production of your products, especially when it comes to custom cords. Buying American-made custom cords can offer numerous benefits. Buying cords that are molded in the USA supports the local economy, offers the opportunity to customize the cords to your exact specifications, and can be an excellent choice when fast turnaround is needed.
 author: jim-smits
 thumbnail:

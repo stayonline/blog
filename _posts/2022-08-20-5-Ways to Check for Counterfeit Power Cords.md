@@ -2,7 +2,9 @@
 layout: post
 title: 5 Ways to Check for Counterfeit Power Cords
 date: 2022-08-20
-categories: power-cords safety
+tags:
+  - power-cords
+  - safety
 description: It's a sad reality, but counterfeit and poorly manufactured power cords are more common than one might think. In some cases, knockoffs of trusted brands and equipment are produced for sale by unwitting or shady manufacturer; in others, manufacturers substitute materials with cheaper ones to cut costs.
 author: daniel-gilbert
 thumbnail:

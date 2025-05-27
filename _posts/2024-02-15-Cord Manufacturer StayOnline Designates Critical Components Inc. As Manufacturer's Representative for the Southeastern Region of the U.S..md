@@ -2,7 +2,10 @@
 layout: post
 title: Cord Manufacturer StayOnline Designates Critical Components Inc. As Manufacturer's Representative for the Southeastern Region of the U.S.
 date: 2024-02-15
-categories: pr press-release stayonline
+tags:
+  - pr
+  - press-release
+  - stayonline
 description: Henderson, NC - February 15, 2024 - StayOnline, a leading provider of technical power solutions in the power cord, plug adapter and power distribution industries, announced it has appointed Critical Components, Inc. (CCI) to represent the manufacturer in the Southeastern region of the U.S., servicing the states of Georgia, Alabama, North Florida, Tennessee, North Carolina, and South Carolina.
 author: 
 pressrelease: "true"

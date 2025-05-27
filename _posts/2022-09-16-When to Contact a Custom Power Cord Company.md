@@ -2,7 +2,9 @@
 layout: post
 title: When to Contact a Custom Power Cord Company
 date: 2022-09-16
-categories: power-cords custom-cords
+tags:
+  - power-cords
+  - custom-cords
 description: Custom power cords are essential to any business' infrastructure because they help provide power across various applications-from powering laptop batteries and charging phones to powering servers and data centers. With the ongoing digital transformation, businesses are continually looking for ways to improve their processes.
 author: daniel-gilbert
 thumbnail:

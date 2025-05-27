@@ -2,7 +2,10 @@
 layout: post
 title: StayOnline Announces Strategic Partnership with PT. Megaroyal IT Comindo to Drive Expansion into the Indonesian Power Solutions and Data Center Market
 date: 2024-07-16
-categories: pr press-release stayonline
+tags:
+  - pr
+  - press-release
+  - stayonline
 description: StayOnline, a leading manufacturer and distributor of critical power cabling, recently announced a partnership with PT. Megaroyal IT Comindo. This new cooperation with the Indonesian company allows StayOnline to meet the needs of the market by leveraging the expertise of Megaroyal, providing customer-focused solutions on a larger scale, and bolstering the product offering to end users in the Indonesian market.
 author: 
 pressrelease: "true"

@@ -2,7 +2,9 @@
 layout: post
 title: Beginner's Guide to NEMA Plugs
 date: 2021-11-23
-categories: power-cords nema
+tags:
+  - power-cords
+  - nema
 description: Whether you're running an event planning business or you're starting to set up a new office space, there's no denying that having the right cables is crucial. Here, we'll give you a brief overview of NEMA plugs. Let's get started.
 author: jacob-bechtol
 ---

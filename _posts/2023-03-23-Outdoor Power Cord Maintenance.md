@@ -2,7 +2,10 @@
 layout: post
 title: Outdoor Power Cord Maintenance
 date: 2023-03-23
-categories: power-cords outdoor-cords event-power
+tags:
+  - power-cords
+  - outdoor-cords
+  - event-power
 description: Whether you own a marina, run outdoor events, use temporary power, or run generators, it's important to inspect your outdoor power cords for corrosion, cracking, fraying, and other problems. Here's what you need to know.
 author: kate-linehan
 thumbnail:

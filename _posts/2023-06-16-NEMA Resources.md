@@ -2,7 +2,9 @@
 layout: post
 title: NEMA Resources
 date: 2023-06-16
-categories: power-cords nema
+tags:
+  - power-cords
+  - nema
 description: StayOnline believes that empowering customers with detailed product information is crucial to making informed buying decisions. It is with this commitment that we have created comprehensive resources, including the NEMA Straight Blade Reference Chart and the NEMA Locking Reference Chart.
 author: jim-smits
 thumbnail:

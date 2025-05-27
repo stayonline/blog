@@ -2,7 +2,10 @@
 layout: post
 title: Beating the Supply Chain with Custom Cords
 date: 2022-04-07
-categories: supply-chain custom-cords power-cords
+tags:
+  - supply-chain
+  - custom-cords
+  - power-cords
 description: Over the past two years, the supply of goods (and services) to and within the US has been drastically altered. This is due in part to the COVID-19 pandemic, but one can also look to delays in the supply chain-namely, the import of goods from China.
 author: hal-mahler
 thumbnail:

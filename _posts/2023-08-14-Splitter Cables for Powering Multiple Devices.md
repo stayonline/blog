@@ -2,7 +2,9 @@
 layout: post
 title: Splitter Cables for Powering Multiple Devices
 date: 2023-08-14
-categories: power-cords splitters
+tags:
+  - power-cords
+  - splitters
 description: Harness the convenience of powering multiple devices from a singular source with our range of splitter power cords. Whether you're dealing with limited outlets or aiming to reduce cable clutter, splitters are your go-to solution. They not only free up valuable space but also enhance airflow, ensuring optimal performance for your devices.
 author: hal-mahler
 thumbnail:

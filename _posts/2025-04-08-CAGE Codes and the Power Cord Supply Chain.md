@@ -2,7 +2,11 @@
 layout: post
 title: CAGE Codes and the Power Cord Supply Chain
 date: 2025-04-08
-categories: power-cords usa taa supply-chain
+tags:
+  - power-cords
+  - usa
+  - taa
+  - supply-chain
 description: "If you’re in the business of supplying products like power cords and assemblies to the U.S. government, there’s one detail you can’t overlook: the CAGE Code."
 author: hal-mahler
 thumbnail:

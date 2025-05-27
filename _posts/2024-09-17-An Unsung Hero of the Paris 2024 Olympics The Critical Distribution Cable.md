@@ -2,7 +2,10 @@
 layout: post
 title: "An Unsung Hero of the Paris 2024 Olympics: The Critical Distribution Cable"
 date: 2024-09-17
-categories: power-cords outdoor-cords event-power
+tags:
+  - power-cords
+  - outdoor-cords
+  - event-power
 description: "In the fast-paced Technical Operations Center at the Paris 2024 Olympic Games, there was an unsung hero: the common but critical distribution cable. While the world watched athletes strive for gold, behind the scenes, a complex power system (known as a power plane) kept the games running smoothly."
 author: jim-smits
 thumbnail:

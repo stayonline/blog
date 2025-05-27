@@ -2,7 +2,9 @@
 layout: post
 title: What Type of NEMA Straight Blade Does Your Business Need?
 date: 2022-07-23
-categories: power-cords nema
+tags:
+  - power-cords
+  - nema
 description: Did you know that the global budget for IT is expected to be $3.92 trillion in 2022 as companies continue to integrate IT solutions to improve and expand their business processes? Your business may be investing more into IT, which will invariably include NEMA straight blade plugs.
 author: jim-smits
 thumbnail:

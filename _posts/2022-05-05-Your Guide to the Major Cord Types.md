@@ -2,7 +2,12 @@
 layout: post
 title: Your Guide to the Major Cord Types
 date: 2022-05-05
-categories: power-cords nema iec locking-cords splitters
+tags:
+  - power-cords
+  - nema
+  - iec
+  - locking-cords
+  - splitters
 description: In this day and age, it's not only unwise to lag behind on technological trends, it can actually be detrimental to the success of your company. Currently, about 44% of all businesses have plans to accelerate their digital revamps - if they haven't done so already.
 author: jim-smits
 thumbnail:

@@ -2,7 +2,11 @@
 layout: post
 title: The Lowdown on Power Cable Management in Data Centers
 date: 2022-03-16
-categories: infrastructure power-cords it data-center
+tags:
+  - infrastructure
+  - power-cords
+  - it
+  - data-center
 description: Great cable management is a critical part of successfully operating a data center, for this is where the processing, storing, distribution, and ultimately the streamlining of all data occurs. For data centers to be an ideal resource for businesses, they must be appropriately organized.
 author:
 ---

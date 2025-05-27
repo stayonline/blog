@@ -2,7 +2,10 @@
 layout: post
 title: Powering Your Summer
 date: 2024-05-21
-categories: power-cords outdoor-cords event-power
+tags:
+  - power-cords
+  - outdoor-cords
+  - event-power
 description: Summertime is fast approaching and that means an uptick in workloads for lighting and staging production companies. StayOnline has the products you need for safe and efficient power connections for event power.
 author: kate-linehan
 thumbnail:

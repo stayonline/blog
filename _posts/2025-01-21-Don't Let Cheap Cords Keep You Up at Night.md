@@ -2,7 +2,9 @@
 layout: post
 title: Don't Let Cheap Cords Keep You Up at Night
 date: 2025-01-21
-categories: power-cords safety
+tags:
+  - power-cords
+  - safety
 description: Uptime, SLAs, five-nines availability, and safety are enough to keep any IT professional up at night. Yet, the weakest link in their meticulously engineered environment might be one of the most basic—it could be an overlooked, low-cost power cord, quietly waiting to fail.
 author: jim-smits
 thumbnail:

@@ -2,7 +2,9 @@
 layout: post
 title: 10 Geeky Facts About Power Cords
 date: 2023-04-24
-categories: power-cords nema
+tags:
+  - power-cords
+  - nema
 description: At StayOnline, we eat, breathe, drink and dream power cords. Power cords may seem like a mundane topic, but there's more to them than meets the eye.
 author: kate-linehan
 thumbnail:

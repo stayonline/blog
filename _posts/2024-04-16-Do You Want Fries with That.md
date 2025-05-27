@@ -2,7 +2,8 @@
 layout: post
 title: Do You Want Fries with That?
 date: 2024-04-16
-categories: power-cords
+tags:
+  - power-cords
 description: It's a sales tactic that we've all heard time and time again and the simple answer why, is that it works.
 author: kate-linehan
 thumbnail:

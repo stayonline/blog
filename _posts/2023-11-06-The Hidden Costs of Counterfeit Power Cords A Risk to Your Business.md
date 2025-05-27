@@ -2,7 +2,9 @@
 layout: post
 title: "The Hidden Costs of Counterfeit Power Cords: A Risk to Your Business"
 date: 2023-11-06
-categories: power-cords safety
+tags:
+  - power-cords
+  - safety
 description: In an era where reliability and safety are paramount, the rise of counterfeit power cords is an alarming trend.
 author: hal-mahler
 thumbnail:

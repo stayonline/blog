@@ -2,7 +2,11 @@
 layout: post
 title: Cord Manufacturer StayOnline Opens New North Carolina Facility
 date: 2021-10-15
-categories: pr press-release stayonline facility
+tags:
+  - pr
+  - press-release
+  - stayonline
+  - facility
 description: ALDER Capital Partners and StayOnline team to continue the thirty-year old manufacturer's pursuit of customer service and quality in the power cord industry.
 pressrelease: "true"
 thumbnail: Cord_Manu.png

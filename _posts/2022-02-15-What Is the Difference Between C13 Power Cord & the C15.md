@@ -2,7 +2,11 @@
 layout: post
 title: What Is the Difference Between C13 Power Cord and the C15?
 date: 2022-02-15
-categories: power-cords iec320 c13 c15
+tags:
+  - power-cords
+  - iec320
+  - c13
+  - c15
 description: Power cords allow us to do incredible things on a daily basis. That said, it's easy to use power cords without realizing just how different they can be from one another. With that in mind, we're here to review a few differences between the C13 power cord and C15 power cords. Let's get started.
 author: jacob-bechtol
 ---

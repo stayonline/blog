@@ -2,7 +2,9 @@
 layout: post
 title: Incoterms in a Nutshell
 date: 2024-08-01
-categories: power-cords supply-chain
+tags:
+  - power-cords
+  - supply-chain
 description: In the world of international trade, clarity is crucial. Misunderstandings between buyers and sellers about their respective responsibilities can lead to delays, added costs, and legal disputes. This is where Incoterms come into play.
 author: hal-mahler
 thumbnail:

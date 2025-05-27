@@ -2,7 +2,8 @@
 layout: post
 title: Cord Length vs. Amperage
 date: 2023-11-30
-categories: power-cords
+tags:
+  - power-cords
 description: The thicker the cord, the higher its maximum amperage capacity. The longer the cord, the more resistance, and the greater the loss in amperage efficiency.
 author: jacob-bechtol
 thumbnail:

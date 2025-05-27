@@ -2,7 +2,11 @@
 layout: post
 title: Making Your Network Stronger
 date: 2021-11-10
-categories: infrastructure power-cords it data-center
+tags:
+  - infrastructure 
+  - power-cords 
+  - it
+  - data-center
 description: Making your network more robust comes with a wide range of benefits. Sometimes it is the little things that can help, like custom power cords to shore up the connectivity of your hardware. Other times, making your network stronger is a bit more complex.
 author:
 ---

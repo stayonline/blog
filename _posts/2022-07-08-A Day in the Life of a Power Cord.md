@@ -2,7 +2,9 @@
 layout: post
 title: A Day in the Life of a Power Cord
 date: 2022-07-08
-categories: power-cords custom-cords
+tags:
+  - power-cords
+  - custom-cords
 description: Custom power cords and power supplies are used by original equipment manufacturers (OEMs) in a wide variety of applications, both in the domestic and international markets. Many industries have power- or size-specific requirements, or present unique design challenges; this can make it difficult for users to find the power cords they need for a given application.
 author: myke-trimarchi
 thumbnail:

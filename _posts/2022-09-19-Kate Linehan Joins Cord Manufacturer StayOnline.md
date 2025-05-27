@@ -2,7 +2,10 @@
 layout: post
 title: Kate Linehan Joins Cord Manufacturer StayOnline
 date: 2022-09-19
-categories: pr press-release stayonline
+tags:
+  - pr
+  - press-release
+  - stayonline
 description: Kate Linehan joins StayOnline as Vice President, Sales and Marketing, to lead the thirty-five year old manufacturer's pursuit of market growth and penetration in the power cord industry.
 author: 
 thumbnail: 

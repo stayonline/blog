@@ -2,7 +2,10 @@
 layout: post
 title: Understanding Trade Agreement Act (TAA) Power Cord Compliance
 date: 2024-02-28
-categories: power-cords usa taa
+tags:
+  - power-cords
+  - usa
+  - taa
 description: In the world of international trade and government contracting, navigating the complexities of compliance regulations is crucial for businesses aiming to expand their market reach while adhering to legal requirements. One such regulatory framework that demands attention from vendors, especially those involved in supplying products to the United States government, is the Trade Agreements Act (TAA).
 author: daniel-gilbert
 thumbnail:

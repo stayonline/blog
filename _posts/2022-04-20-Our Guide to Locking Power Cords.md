@@ -2,7 +2,9 @@
 layout: post
 title: Our Guide to Locking Power Cords
 date: 2022-04-20
-categories: power-cords locking-cords
+tags:
+  - power-cords
+  - locking-cords
 description: There are several situations that call for users to secure their power connections. This is especially so in applications that are deemed mission critical-data centers, hospitals, and military applications come to mind-where the ability to secure the connection between your device and its power source can mean the difference between being online, or completely cut off.
 author: jim-smits
 thumbnail:

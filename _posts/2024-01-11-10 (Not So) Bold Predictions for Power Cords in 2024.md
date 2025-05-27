@@ -2,7 +2,8 @@
 layout: post
 title: 10 (Not So) Bold Predictions for Power Cords in 2024
 date: 2024-01-11
-categories: power-cords
+tags:
+  - power-cords
 description: 2024 is upon us and that means it is time for plenty of prediction posts. Here are our 2024 (not so) bold power cord predictions.
 author: jim-smits
 thumbnail:

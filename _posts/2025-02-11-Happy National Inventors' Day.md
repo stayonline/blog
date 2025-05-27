@@ -2,7 +2,9 @@
 layout: post
 title: Happy National Inventors' Day
 date: 2025-02-11
-categories: hubbell wiring-devices
+tags:
+  - hubbell
+  - wiring-devices
 description: Today is National Inventors' Day in the U.S. and we at StayOnline can think of none other to honor, than the man himself, Mr. Thomas Edison. Without him, there would be no power cord.
 author: jim-smits
 thumbnail:

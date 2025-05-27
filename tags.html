@@ -1,0 +1,193 @@
+---
+layout: default
+title: Tags
+---
+
+<div style="margin-bottom: 1rem; ">
+    <button onclick="showCloud()">Tag Cloud</button>
+    <button onclick="showGraph()">Graph View</button>
+</div>
+
+<div id="tag-cloud" class="tag-cloud">
+    {% assign tags = site.tags %}
+    {% assign max_count = 0 %}
+    {% for tag in tags %}
+    {% if tag[1].size > max_count %}
+    {% assign max_count = tag[1].size %}
+    {% endif %}
+    {% endfor %}
+
+    {% for tag in tags %}
+    {% assign count = tag[1].size %}
+    {% assign scale = count | times: 1.0 | divided_by: max_count %}
+    {% assign font_size = scale | times: 1.5 | plus: 0.85 %}
+    <a href="/tags/{{ tag[0] | slugify }}/" class="cloud-tag" style="--size: {{ font_size }}rem;">
+        {{ tag[0] }} ({{ count }})
+    </a>
+    {% endfor %}
+</div>
+
+<div id="tag-graph" style="display: none; width: 100%; height: 600px;">
+    <canvas id="tag-graph-canvas" width="1000" height="600"></canvas>
+</div>
+
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+    let simulation;
+    let transform = d3.zoomIdentity;
+    let nodes = [], links = [];
+
+    function showCloud() {
+        localStorage.setItem('tagViewMode', 'cloud');
+        document.getElementById('tag-cloud').style.display = 'flex';
+        document.getElementById('tag-graph').style.display = 'none';
+    }
+
+    function showGraph() {
+        localStorage.setItem('tagViewMode', 'graph');
+        document.getElementById('tag-cloud').style.display = 'none';
+        document.getElementById('tag-graph').style.display = 'block';
+        if (!simulation) initGraph();
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        const mode = localStorage.getItem('tagViewMode') || 'cloud';
+        if (mode === 'graph') showGraph();
+        else showCloud();
+    });
+
+    async function initGraph() {
+        const res = await fetch('/assets/data/tags-graph.json');
+        ({ nodes, links } = await res.json());
+
+        const canvas = document.getElementById('tag-graph-canvas');
+        const ctx = canvas.getContext('2d');
+
+        canvas.width = canvas.clientWidth;
+        canvas.height = canvas.clientHeight;
+
+        const saved = localStorage.getItem('tagGraphTransform');
+        transform = d3.zoomIdentity;
+
+        if (saved) {
+            try {
+                const parsed = JSON.parse(saved);
+                transform = d3.zoomIdentity.translate(parsed.x, parsed.y).scale(parsed.k);
+            } catch (err) {
+                console.warn("Invalid zoom transform in localStorage");
+            }
+        }
+
+        const tooltip = document.createElement('div');
+        tooltip.style.position = 'absolute';
+        tooltip.style.background = '#000';
+        tooltip.style.color = '#fff';
+        tooltip.style.padding = '4px 8px';
+        tooltip.style.borderRadius = '4px';
+        tooltip.style.fontSize = '12px';
+        tooltip.style.pointerEvents = 'none';
+        tooltip.style.opacity = 0;
+        document.body.appendChild(tooltip);
+
+        simulation = d3.forceSimulation(nodes)
+            .force('link', d3.forceLink(links).id(d => d.id).distance(90))
+            .force('charge', d3.forceManyBody().strength(-350))
+            .force('center', d3.forceCenter(canvas.width / 2, canvas.height / 2))
+            .on('tick', render);
+
+        function render() {
+            ctx.save();
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            ctx.translate(transform.x, transform.y);
+            ctx.scale(transform.k, transform.k);
+
+            // 1. Draw links
+            links.forEach(link => {
+                ctx.beginPath();
+                ctx.moveTo(link.source.x, link.source.y);
+                ctx.lineTo(link.target.x, link.target.y);
+                ctx.strokeStyle = "#444";
+                ctx.stroke();
+            });
+
+            // 2. Draw nodes
+            nodes.forEach(node => {
+                const isTag = node.type === "tag";
+                const baseSize = isTag ? 8 : 5;
+                const linkCount = isTag
+                    ? links.filter(l => l.source.id === node.id || l.source === node.id).length
+                    : 0;
+                const radius = isTag ? Math.min(baseSize + linkCount * 1.5, 24) : baseSize;
+
+                ctx.beginPath();
+                ctx.arc(node.x, node.y, radius, 0, 2 * Math.PI);
+                ctx.fillStyle = isTag ? "#0069bb" : "#ccc";
+                ctx.fill();
+                ctx.strokeStyle = "#fff";
+                ctx.stroke();
+            });
+
+            // 3. Draw labels (on top)
+            nodes.forEach(node => {
+                const isTag = node.type === "tag";
+                const baseSize = isTag ? 8 : 5;
+                const linkCount = isTag
+                    ? links.filter(l => l.source.id === node.id || l.source === node.id).length
+                    : 0;
+                const radius = isTag ? Math.min(baseSize + linkCount * 1.5, 24) : baseSize;
+
+                ctx.font = "10px sans-serif";
+                ctx.fillStyle = "#fff";
+                ctx.fillText(node.label, node.x + radius + 3, node.y + 3);
+            });
+
+            ctx.restore();
+        }
+
+        const zoomBehavior = d3.zoom()
+            .scaleExtent([0.1, 4])
+            .on('zoom', (event) => {
+                transform = event.transform;
+                localStorage.setItem('tagGraphTransform', JSON.stringify(transform));
+                render();
+            });
+
+        d3.select(canvas).call(zoomBehavior);
+
+        if (saved) {
+            d3.select(canvas)
+                .transition()
+                .duration(0)
+                .call(zoomBehavior.transform, transform);
+        }
+
+        canvas.addEventListener('mousemove', e => {
+            const rect = canvas.getBoundingClientRect();
+            const x = (e.clientX - rect.left - transform.x) / transform.k;
+            const y = (e.clientY - rect.top - transform.y) / transform.k;
+
+            const hovered = nodes.find(n => Math.hypot(n.x - x, n.y - y) < 10);
+            if (hovered) {
+                canvas.style.cursor = 'pointer';
+                tooltip.style.left = `${e.pageX + 10}px`;
+                tooltip.style.top = `${e.pageY + 10}px`;
+                tooltip.textContent = hovered.label;
+                tooltip.style.opacity = 0.95;
+            } else {
+                canvas.style.cursor = 'default';
+                tooltip.style.opacity = 0;
+            }
+        });
+
+        canvas.addEventListener('click', e => {
+            const rect = canvas.getBoundingClientRect();
+            const x = (e.clientX - rect.left - transform.x) / transform.k;
+            const y = (e.clientY - rect.top - transform.y) / transform.k;
+
+            const clicked = nodes.find(n => Math.hypot(n.x - x, n.y - y) < 10);
+            if (clicked?.url) window.location.href = clicked.url;
+        });
+    }
+
+</script>
