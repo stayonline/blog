@@ -1,7 +1,9 @@
 daniel-gilbert:
   name: Daniel Gilbert
   title: "Daniel Gilbert is the CEO of StayOnline."
-  bio: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  bio: >-
+    <p><b>Daniel Gilbert</b> has been leading StayOnline since 2021 and has spirit for continuous learning about our products and customers. As CEO Daniel leads the growth of the StayOnline brand globally as an expert in power cords, as well as the company's vision for the future.</p>
+    <p>If and when Dan is not talking about power cords, he likely has one of his sons on his shoulders looking at airplanes.</p>
   avatar: /assets/images/daniel-gilbert.jpg
   linkedin: https://www.linkedin.com/in/daniel-gilbert-cta-89394119/
   url: /authors/daniel-gilbert/
@@ -9,7 +11,9 @@ daniel-gilbert:
 kate-linehan:
   name: Kate Linehan
   title: "Kate Linehan is VP of Sales at StayOnline."
-  bio: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  bio: >-
+    <p><b>Kate Linehan</b> has been selling inside the rack cabling solutions for longer than she'd care to admit, a fervent defender of the channel and lover of OEM attach alike. She is proud to lead the incredible sales team at StayOnline, supporting them in all their efforts is what makes her world turn. </p>
+    <p>When Kate isn't gabbing about cords and partnerships she can be found enjoying life in the Finger Lakes of New York with her dudes.</p.
   avatar: /assets/images/kate-linehan.jpg
   linkedin: https://www.linkedin.com/in/katelinehan/
   url: /authors/kate-linehan/
@@ -18,7 +22,9 @@ kate-linehan:
 hal-mahler:
   name: Hal Mahler
   title: "Hal Mahler is VP of Product at StayOnline."
-  bio: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  bio: >-
+    <p><b>Hal Mahler</b> has dedicated his entire career to the efficiency and quality of supply chain management; utilizing Lean Six Sigma principles. For over a decade, Hal has applied his expertise of product knowledge of power cords, to optimize the overall supply chain process for StayOnline and their customers. Aiming to reduce waste, improve the speed of their product, increase cost effectiveness as well as customer satisfaction, Hal successfully serves as the Vice President of Product. Hal's passion for a resilient streamlined supply chain, promotes StayOnline's overall commitment to excellence in delivery to their customers' ever changing power cord needs.</p>
+    <p>Additionally, Hal can be found in his spare time, windward bound on his 30 foot sailboat as well as continuing in his product searches, for the next and best, in new boating items.</p>
   avatar: /assets/images/hal-mahler.jpg
   linkedin: https://www.linkedin.com/in/hal-mahler/
   url: /authors/hal-mahler/
@@ -26,7 +32,9 @@ hal-mahler:
 myke-trimarchi:
   name: Myke Trimarchi
   title: "Myke Trimarchi is VP of Operations at StayOnline."
-  bio: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  bio: >- 
+    <p><b>Myke Trimarchi</b> has been an integral part of <b>StayOnline</b> for over 15 years, contributing across nearly every facet of the company—including warehousing, production, customer service, and sales. His deep experience and commitment to excellence continue to play a key role in strengthening StayOnline's position as a global leader in power cord solutions.</p>
+    <p>Outside of work, Myke enjoys quality time with his family, getting lost in a good book, and exploring the outdoors through camping adventures.</p>
   avatar: /assets/images/myke-trimarchi.jpg
   linkedin: https://www.linkedin.com/in/myke-trimarchi-a61893b7/
   url: /authors/myke-trimarchi/
@@ -34,7 +42,9 @@ myke-trimarchi:
 jacob-bechtol:
   name: Jacob Bechtol
   title: "Jacob Bechtol is an Electrical Engineer at StayOnline."
-  bio: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  bio: >-
+    <p><b>Jacob Bechtol</b> has been an electrical engineer at StayOnline since 2023. In his former life, Jacob worked as a project handler for UL Solutions and brought this body of knowledge to StayOnline to enhance the expertise offered to our customers.</p>
+    <p>In his free time, Jacob enjoys working with his honeybees and chickens on his small sustainable homestead alongside his wife.</p>
   avatar: /assets/images/jacob-bechtol.jpg
   linkedin: https://www.linkedin.com/in/jacob-bechtol/
   url: /authors/jacob-bechtol/
@@ -44,9 +54,7 @@ jim-smits:
   title: "Jim Smits is Director of Ecommerce at StayOnline."
   bio: >- 
     <p><b>Jim Smits</b> has been working with power cords in some way, shape, or form since 2005. A longtime StayOnline team member, Jim has worn many hats—starting in the warehouse, moving through sales and production, and now serving as Director of Ecommerce.</p>
-
     <p>In addition to his passion for power cords, Jim may be found sneaking in a little fishing with his kids when the workday ends.</p>
-
   avatar: /assets/images/jim-smits.jpg
   linkedin: https://www.linkedin.com/in/jim-smits-93633b165/
   url: /authors/jim-smits/
