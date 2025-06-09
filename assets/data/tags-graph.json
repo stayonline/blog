@@ -52,6 +52,7 @@
   { "id": "post-What-is-YY-Wire?", "label": "What is YY Wire?", "type": "post", "url": "/2025/02/25/What is YY Wire/" },
   { "id": "post-CAGE-Codes-and-the-Power-Cord-Supply-Chain", "label": "CAGE Codes and the Power Cord Supply Chain", "type": "post", "url": "/2025/04/08/CAGE Codes and the Power Cord Supply Chain/" },
   { "id": "post-Extension-Cords---Three-Things-to-Know", "label": "Extension Cords - Three Things to Know", "type": "post", "url": "/2025/04/29/Extension Cords - Three Things to Know/" },
+  { "id": "post-StayOnline-Appoints-Morgan-Hill-to-Represent-the-Power-Cord-Manufacturer-in-the-Northeastern-Region-of-the-U.S.", "label": "StayOnline Appoints Morgan Hill to Represent the Power Cord Manufacturer in the Northeastern Region of the U.S.", "type": "post", "url": "/2025/05/06/StayOnline-Morgan-Hill/" },
   { "id": "tag-hubbell", "label": "hubbell", "type": "tag", "url": "/tags/hubbell/" },
   { "id": "tag-nema", "label": "nema", "type": "tag", "url": "/tags/nema/" },
   { "id": "tag-it", "label": "it", "type": "tag", "url": "/tags/it/" },
@@ -123,6 +124,7 @@
   { "source": "tag-pr", "target": "post-Cord-Manufacturer-StayOnline-Designates-Critical-Components-Inc.-As-Manufacturer's-Representative-for-the-Southeastern-Region-of-the-U.S." },
   { "source": "tag-pr", "target": "post-StayOnline-and-EMC-Eupen-Announce-Strategic-Partnership-for-EMI-Power-Solutions" },
   { "source": "tag-pr", "target": "post-StayOnline-Announces-Strategic-Partnership-with-PT.-Megaroyal-IT-Comindo-to-Drive-Expansion-into-the-Indonesian-Power-Solutions-and-Data-Center-Market" },
+  { "source": "tag-pr", "target": "post-StayOnline-Appoints-Morgan-Hill-to-Represent-the-Power-Cord-Manufacturer-in-the-Northeastern-Region-of-the-U.S." },
   { "source": "tag-c15", "target": "post-What-Is-the-Difference-Between-C13-Power-Cord-and-the-C15?" },
   { "source": "tag-c13", "target": "post-What-Is-the-Difference-Between-C13-Power-Cord-and-the-C15?" },
   { "source": "tag-outdoor-cords", "target": "post-Outdoor-Power-Cord-Maintenance" },
@@ -209,4 +211,5 @@
   { "source": "tag-press-release", "target": "post-Cord-Manufacturer-StayOnline-Partners-with-Raymonds-Supply-Company-Ltd.-for-Strategic-SAR-Distribution" },
   { "source": "tag-press-release", "target": "post-Cord-Manufacturer-StayOnline-Designates-Critical-Components-Inc.-As-Manufacturer's-Representative-for-the-Southeastern-Region-of-the-U.S." },
   { "source": "tag-press-release", "target": "post-StayOnline-and-EMC-Eupen-Announce-Strategic-Partnership-for-EMI-Power-Solutions" },
-  { "source": "tag-press-release", "target": "post-StayOnline-Announces-Strategic-Partnership-with-PT.-Megaroyal-IT-Comindo-to-Drive-Expansion-into-the-Indonesian-Power-Solutions-and-Data-Center-Market" } ] }
+  { "source": "tag-press-release", "target": "post-StayOnline-Announces-Strategic-Partnership-with-PT.-Megaroyal-IT-Comindo-to-Drive-Expansion-into-the-Indonesian-Power-Solutions-and-Data-Center-Market" },
+  { "source": "tag-press-release", "target": "post-StayOnline-Appoints-Morgan-Hill-to-Represent-the-Power-Cord-Manufacturer-in-the-Northeastern-Region-of-the-U.S." } ] }
