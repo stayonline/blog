@@ -29,6 +29,7 @@
   { "id": "post-10-Geeky-Facts-About-Power-Cords", "label": "10 Geeky Facts About Power Cords", "type": "post", "url": "/2023/04/24/10 Geeky Facts About Power Cords/" },
   { "id": "post-NEMA-Resources", "label": "NEMA Resources", "type": "post", "url": "/2023/06/16/NEMA Resources/" },
   { "id": "post-Splitter-Cables-for-Powering-Multiple-Devices", "label": "Splitter Cables for Powering Multiple Devices", "type": "post", "url": "/2023/08/14/Splitter Cables for Powering Multiple Devices/" },
+  { "id": "post-Cord-Manufacturer-StayOnline-Partners-with-Raymonds-Supply-Company-Ltd.-for-Strategic-SAR-Distribution", "label": "Cord Manufacturer StayOnline Partners with Raymonds Supply Company Ltd. for Strategic SAR Distribution", "type": "post", "url": "/2023/08/29/StayOnline-Teams-Up-With-Raymonds/" },
   { "id": "post-Bike-Shedding", "label": "Bike Shedding", "type": "post", "url": "/2023/09/20/Bike Shedding/" },
   { "id": "post-Locking-Power-Cords-Revisited", "label": "Locking Power Cords Revisited", "type": "post", "url": "/2023/10/12/Locking Power Cords Revisited/" },
   { "id": "post-The-Hidden-Costs-of-Counterfeit-Power-Cords:-A-Risk-to-Your-Business", "label": "The Hidden Costs of Counterfeit Power Cords: A Risk to Your Business", "type": "post", "url": "/2023/11/06/The Hidden Costs of Counterfeit Power Cords A Risk to Your Business/" },
@@ -118,6 +119,7 @@
   { "source": "tag-data-center", "target": "post-Data-Center-Solutions" },
   { "source": "tag-pr", "target": "post-Cord-Manufacturer-StayOnline-Opens-New-North-Carolina-Facility" },
   { "source": "tag-pr", "target": "post-Kate-Linehan-Joins-Cord-Manufacturer-StayOnline" },
+  { "source": "tag-pr", "target": "post-Cord-Manufacturer-StayOnline-Partners-with-Raymonds-Supply-Company-Ltd.-for-Strategic-SAR-Distribution" },
   { "source": "tag-pr", "target": "post-Cord-Manufacturer-StayOnline-Designates-Critical-Components-Inc.-As-Manufacturer's-Representative-for-the-Southeastern-Region-of-the-U.S." },
   { "source": "tag-pr", "target": "post-StayOnline-and-EMC-Eupen-Announce-Strategic-Partnership-for-EMI-Power-Solutions" },
   { "source": "tag-pr", "target": "post-StayOnline-Announces-Strategic-Partnership-with-PT.-Megaroyal-IT-Comindo-to-Drive-Expansion-into-the-Indonesian-Power-Solutions-and-Data-Center-Market" },
@@ -204,6 +206,7 @@
   { "source": "tag-event-power", "target": "post-An-Unsung-Hero-of-the-Paris-2024-Olympics:-The-Critical-Distribution-Cable" },
   { "source": "tag-press-release", "target": "post-Cord-Manufacturer-StayOnline-Opens-New-North-Carolina-Facility" },
   { "source": "tag-press-release", "target": "post-Kate-Linehan-Joins-Cord-Manufacturer-StayOnline" },
+  { "source": "tag-press-release", "target": "post-Cord-Manufacturer-StayOnline-Partners-with-Raymonds-Supply-Company-Ltd.-for-Strategic-SAR-Distribution" },
   { "source": "tag-press-release", "target": "post-Cord-Manufacturer-StayOnline-Designates-Critical-Components-Inc.-As-Manufacturer's-Representative-for-the-Southeastern-Region-of-the-U.S." },
   { "source": "tag-press-release", "target": "post-StayOnline-and-EMC-Eupen-Announce-Strategic-Partnership-for-EMI-Power-Solutions" },
   { "source": "tag-press-release", "target": "post-StayOnline-Announces-Strategic-Partnership-with-PT.-Megaroyal-IT-Comindo-to-Drive-Expansion-into-the-Indonesian-Power-Solutions-and-Data-Center-Market" } ] }
