@@ -4,18 +4,18 @@ OUTPUT_FILE="assets/data/tags-graph.json"
 mkdir -p "$(dirname "$OUTPUT_FILE")"
 
 # ---------- helper ----------
-derive_permalink() {                # _posts/2025-05-27-my-title.md → /2025/05/27/my-title/
+derive_permalink() {                # _posts/2025-05-27-my-title.md → /2025/05/27/my-title.html
   local fname=$(basename "$1" .md)
   if [[ $fname =~ ^([0-9]{4})-([0-9]{2})-([0-9]{2})-(.*)$ ]]; then
     local title="${BASH_REMATCH[4]}"
     # Replace spaces and special chars with hyphens, then clean up multiple hyphens
     title=$(echo "$title" | sed 's/[^a-zA-Z0-9-]/-/g' | sed 's/-\+/-/g' | sed 's/^-\|-$//g')
-    echo "/${BASH_REMATCH[1]}/${BASH_REMATCH[2]}/${BASH_REMATCH[3]}/${title}/"
+    echo "/${BASH_REMATCH[1]}/${BASH_REMATCH[2]}/${BASH_REMATCH[3]}/${title}.html"
   else
-    # non-dated content → /my-title/
+    # non-dated content → /my-title.html
     # Replace spaces and special chars with hyphens, then clean up multiple hyphens
     local clean_fname=$(echo "$fname" | sed 's/[^a-zA-Z0-9-]/-/g' | sed 's/-\+/-/g' | sed 's/^-\|-$//g')
-    echo "/${clean_fname}/"
+    echo "/${clean_fname}.html"
   fi
 }
 # -----------------------------
