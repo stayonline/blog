@@ -7,10 +7,15 @@ mkdir -p "$(dirname "$OUTPUT_FILE")"
 derive_permalink() {                # _posts/2025-05-27-my-title.md → /2025/05/27/my-title/
   local fname=$(basename "$1" .md)
   if [[ $fname =~ ^([0-9]{4})-([0-9]{2})-([0-9]{2})-(.*)$ ]]; then
-    echo "/${BASH_REMATCH[1]}/${BASH_REMATCH[2]}/${BASH_REMATCH[3]}/${BASH_REMATCH[4]}/"
+    local title="${BASH_REMATCH[4]}"
+    # Replace spaces and special chars with hyphens, then clean up multiple hyphens
+    title=$(echo "$title" | sed 's/[^a-zA-Z0-9-]/-/g' | sed 's/-\+/-/g' | sed 's/^-\|-$//g')
+    echo "/${BASH_REMATCH[1]}/${BASH_REMATCH[2]}/${BASH_REMATCH[3]}/${title}/"
   else
     # non-dated content → /my-title/
-    echo "/${fname}/"
+    # Replace spaces and special chars with hyphens, then clean up multiple hyphens
+    local clean_fname=$(echo "$fname" | sed 's/[^a-zA-Z0-9-]/-/g' | sed 's/-\+/-/g' | sed 's/^-\|-$//g')
+    echo "/${clean_fname}/"
   fi
 }
 # -----------------------------
