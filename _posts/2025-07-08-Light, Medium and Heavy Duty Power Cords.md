@@ -13,6 +13,7 @@ description: Often, there are labels on power cords that you may see at your loc
 author: jacob-bechtol
 thumbnail:
 ---
+
 ![StayOnline Logo.](/assets/images/posts/logo.png "StayOnline Logo")
 
 Often, there are labels on power cords[^1] that you may see at your local hardware store such as "Light-Duty", "Consumer Grade", "Medium-Duty", "Commercial Grade", "Heavy-Duty", and "Industrial Grade".  But what makes a cord this grade or that?  Elements such as the jacket material, the thickness of the cord, and the environment in which it is used play a large role in determining the real durability of the cord. Let's break this down for both North American, and Harmonized Power Cords. And be forewarned, we do our best to avoid the depths of power cord minutiae, but no promises are made.
