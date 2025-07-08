@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Light, Medium and Heavy Duty Power Cords
-date: 2025-07-07
+date: 2025-07-08
 tags:
   - power-cords
   - bulk-cord
