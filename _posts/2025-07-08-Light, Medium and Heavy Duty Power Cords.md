@@ -93,7 +93,7 @@ We've already reviewed the seemingly-straight-forward encoding of nominal cross 
 
 For example, here are the lists for insulating materials (3rd position) and jacket (sheath) materials (4th position).
 
-### Insulation
+### Insulation 
 
 
 | Insulating Material                                | Code |
