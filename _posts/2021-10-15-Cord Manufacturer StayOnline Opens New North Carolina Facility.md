@@ -12,7 +12,7 @@ pressrelease: "true"
 thumbnail: Cord_Manu.png
 ---
 
-![145-B Technology Lane, Henderson, NC 27830](assets/images/posts/Cord_Manu.png)
+![145-B Technology Lane, Henderson, NC 27830](/assets/images/posts/Cord_Manu.png)
 
 
 ## ALDER Capital Partners and StayOnline team to continue the thirty-year old manufacturer’s pursuit of customer service and quality in the power cord industry.
