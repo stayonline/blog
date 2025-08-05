@@ -9,6 +9,7 @@ tags:
   - outdoor-cords
   - durability
   - quality
+  - "#technical-knowledge"
 description: Often, there are labels on power cords that you may see at your local hardware store such as "Light-Duty", "Consumer Grade", "Medium-Duty", "Commercial Grade", "Heavy-Duty", and "Industrial Grade".  But what makes a cord this grade or that?
 author: jacob-bechtol
 thumbnail:
@@ -94,7 +95,7 @@ We've already reviewed the seemingly-straight-forward encoding of nominal cross 
 
 For example, here are the lists for insulating materials (3rd position) and jacket (sheath) materials (4th position).
 
-### Insulation 
+### Insulation
 
 
 | Insulating Material                                | Code |

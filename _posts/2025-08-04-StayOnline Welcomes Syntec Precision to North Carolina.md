@@ -1,3 +1,13 @@
+---
+layout: post
+title: StayOnline Welcomes Syntec Precision to North Carolina
+date: 2025-08-05
+tags:
+  - press-release
+description: StayOnline is excited for growth coming to Henderson. Please meet our new neighbors at 145 Technology Lane, Syntec Precision Technology Corporation.
+author: 
+thumbnail:
+---
 
 ![](/assets/images/posts/syntec-precision.png)
 
