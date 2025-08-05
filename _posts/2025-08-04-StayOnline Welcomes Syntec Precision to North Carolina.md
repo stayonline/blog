@@ -1,5 +1,5 @@
 
-![[/assets/images/posts/syntec-precision.png]]
+![](/assets/images/posts/syntec-precision.png)
 
 
 [StayOnline is excited for growth coming to Henderson](https://www.commerce.nc.gov/news/press-releases/2025/02/14/governor-stein-announces-8-million-investment-vance-county-precision-manufacturers-first-north). Please meet our new neighbors at 145 Technology Lane, Syntec Precision Technology Corporation. 
@@ -14,4 +14,4 @@ Our CEO recently had the honor to meet them in person at their facility in Shang
 
 
 
-![]()![[/assets/images/posts/syntec-meeting.jpg]]
+![](/assets/images/posts/syntec-meeting.jpg)
