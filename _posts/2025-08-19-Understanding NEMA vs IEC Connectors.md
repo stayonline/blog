@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Understanding NEMA and IEC Connectors
 date: 2025-08-19
 tags:
   - technical-knowledge
