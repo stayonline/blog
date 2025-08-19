@@ -1,5 +1,5 @@
 ---
 layout: tag
-tag: "#technical-knowledge"
+tag: technical-knowledge
 permalink: /tags/technical-knowledge/
 ---
