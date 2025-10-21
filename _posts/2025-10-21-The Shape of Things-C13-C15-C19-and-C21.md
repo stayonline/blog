@@ -13,7 +13,7 @@ description: C15 (higher temp) can interface with C14 or C16 whereas C13 can onl
 author: jacob-bechtol
 thumbnail:
 ---
-It's been a few years since we first explained the <a href="https://blog.stayonline.com/2022/02/15/What-Is-the-Difference-Between-C13-Power-Cord-&-the-C15.html">difference between C13 and C15 connectors</a>, but they are worth revisiting.  The C15 is interoperable with both C14 and C16 inlets, whereas the C13 only interfaces with C14.  To expand on the interoperability landscape, we will also cover the C19 and the C21. Just like with C13/C14/C15/C16, the C21 interfaces with C20 and C22, whereas the C19 will only mate with C20.
+It's been a few years since we first explained the <a href="https://blog.stayonline.com/2022/02/15/What-Is-the-Difference-Between-C13-Power-Cord-&-the-C15.html">differences between C13 and C15 connectors</a>, but they are worth revisiting.  The C15 is interoperable with both C14 and C16 inlets, whereas the C13 only interfaces with C14.  To expand on the interoperability landscape, we will also cover the C19 and the C21. Just like with C13/C14/C15/C16, the C21 interfaces with C20 and C22, whereas the C19 will only mate with C20.
 
 # C13/C14/C15/C16
 
