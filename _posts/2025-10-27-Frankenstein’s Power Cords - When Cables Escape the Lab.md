@@ -9,7 +9,7 @@ description:
 author: jim-smits
 thumbnail:
 ---
-<img src="assets/images/posts/frankenstein.png" alt="Frankenstein's Monster's head with cords coming out of the sides." /> 
+<img src="/assets/images/posts/frankenstein.png" alt="Frankenstein's Monster's head with cords coming out of the sides." /> 
 
 > “It’s alive!” - probably every engineer who’s ever spliced a plug they _shouldn’t_ have.
 
