@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Frankenstein's Power Cords - When Cables Escape the Lab
-date: 2025-10-28
+date: 2025-10-27
 tags:
   - custom-cables
   - custom-cords
