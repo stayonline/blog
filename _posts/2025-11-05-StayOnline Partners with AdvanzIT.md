@@ -28,6 +28,8 @@ Based in Singapore with offices in India and Malaysia, AdvanzIT will represent S
 
 The commitment to quality that has defined StayOnline for the past 35 years will continue with this new partnership. StayOnline works closely with its partners to achieve strict quality standards, and this partnership with AdvanzIT represents the highest level of trust in the organization to be StayOnline's brand ambassador to Singapore, India, Malaysia and beyond.
 
+<img src="/assets/images/posts/shaking-hands-advanzit.jpg" alt="StayOnline shaking hands with AdvanzIT" />
+
 ## About StayOnline
 
 For over 35 years, StayOnline’s mission has been to meet the needs of global operators by supporting their technical infrastructure and operational uptime, one power cord at time. For more information, visit www.stayonline.com.
