@@ -12,7 +12,7 @@ author:
 thumbnail:
 ---
 
-<img src="assets/images/posts/stayonline-advnazit.webp" alt="StayOnline and AdvanzIT Logos" />
+<img src="assets/images/posts/stayonline-advanzit.webp" alt="StayOnline and AdvanzIT Logos" />
 
 _StayOnline, The Power Cord Company, partners with Singapore based AdvanzIT, to Expand Its Global Partner Network_
 
