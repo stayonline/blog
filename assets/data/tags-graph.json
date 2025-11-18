@@ -59,6 +59,7 @@
   { "id": "post-The-Shape-of-Things---C13,-C15,-C19.-and-C21", "label": "The Shape of Things - C13, C15, C19. and C21", "type": "post", "url": "/2025/10/21/The-Shape-of-Things-C13-C15-C19-and-C21.html" },
   { "id": "post-Frankenstein's-Power-Cords---When-Cables-Escape-the-Lab", "label": "Frankenstein's Power Cords - When Cables Escape the Lab", "type": "post", "url": "/2025/10/27/Frankenstein-s-Power-Cords-When-Cables-Escape-the-Lab.html" },
   { "id": "post-StayOnline-Partners-with-AdvanzIT", "label": "StayOnline Partners with AdvanzIT", "type": "post", "url": "/2025/11/05/StayOnline-Partners-with-AdvanzIT.html" },
+  { "id": "post-Giving-Technology-a-Second-Chance:-StayOnline-Donates-Equipment-to-Kramden-Institute", "label": "Giving Technology a Second Chance: StayOnline Donates Equipment to Kramden Institute", "type": "post", "url": "/2025/11/18/Giving-Technology-a-Second-Chance.html" },
   { "id": "tag-hubbell", "label": "hubbell", "type": "tag", "url": "/tags/hubbell/" },
   { "id": "tag-nema", "label": "nema", "type": "tag", "url": "/tags/nema/" },
   { "id": "tag-quality", "label": "quality", "type": "tag", "url": "/tags/quality/" },
@@ -80,6 +81,7 @@
   { "id": "tag-outdoor-cords", "label": "outdoor-cords", "type": "tag", "url": "/tags/outdoor-cords/" },
   { "id": "tag-international-power", "label": "international-power", "type": "tag", "url": "/tags/international-power/" },
   { "id": "tag-taa", "label": "taa", "type": "tag", "url": "/tags/taa/" },
+  { "id": "tag-environment", "label": "environment", "type": "tag", "url": "/tags/environment/" },
   { "id": "tag-iec", "label": "iec", "type": "tag", "url": "/tags/iec/" },
   { "id": "tag-apac", "label": "apac", "type": "tag", "url": "/tags/apac/" },
   { "id": "tag-wiring-devices", "label": "wiring-devices", "type": "tag", "url": "/tags/wiring-devices/" },
@@ -97,7 +99,8 @@
   { "id": "tag-facility", "label": "facility", "type": "tag", "url": "/tags/facility/" },
   { "id": "tag-orv3", "label": "orv3", "type": "tag", "url": "/tags/orv3/" },
   { "id": "tag-event-power", "label": "event-power", "type": "tag", "url": "/tags/event-power/" },
-  { "id": "tag-press-release", "label": "press-release", "type": "tag", "url": "/tags/press-release/" }],
+  { "id": "tag-press-release", "label": "press-release", "type": "tag", "url": "/tags/press-release/" },
+  { "id": "tag-community", "label": "community", "type": "tag", "url": "/tags/community/" }],
  "links": [
   { "source": "tag-hubbell", "target": "post-Hubbell:-Where-Wiring-Devices-and-Imagination-Meet" },
   { "source": "tag-hubbell", "target": "post-Happy-National-Inventors'-Day" },
@@ -161,6 +164,7 @@
   { "source": "tag-international-power", "target": "post-What-is-YY-Wire?" },
   { "source": "tag-taa", "target": "post-Understanding-Trade-Agreement-Act-(TAA)-Power-Cord-Compliance" },
   { "source": "tag-taa", "target": "post-CAGE-Codes-and-the-Power-Cord-Supply-Chain" },
+  { "source": "tag-environment", "target": "post-Giving-Technology-a-Second-Chance:-StayOnline-Donates-Equipment-to-Kramden-Institute" },
   { "source": "tag-iec", "target": "post-Your-Guide-to-the-Major-Cord-Types" },
   { "source": "tag-apac", "target": "post-StayOnline-Partners-with-AdvanzIT" },
   { "source": "tag-wiring-devices", "target": "post-Hubbell:-Where-Wiring-Devices-and-Imagination-Meet" },
@@ -250,4 +254,5 @@
   { "source": "tag-press-release", "target": "post-StayOnline-Announces-Strategic-Partnership-with-PT.-Megaroyal-IT-Comindo-to-Drive-Expansion-into-the-Indonesian-Power-Solutions-and-Data-Center-Market" },
   { "source": "tag-press-release", "target": "post-StayOnline-Appoints-Morgan-Hill-to-Represent-the-Power-Cord-Manufacturer-in-the-Northeastern-Region-of-the-U.S." },
   { "source": "tag-press-release", "target": "post-StayOnline-Welcomes-Syntec-Precision-to-North-Carolina" },
-  { "source": "tag-press-release", "target": "post-StayOnline-Partners-with-AdvanzIT" } ] }
+  { "source": "tag-press-release", "target": "post-StayOnline-Partners-with-AdvanzIT" },
+  { "source": "tag-community", "target": "post-Giving-Technology-a-Second-Chance:-StayOnline-Donates-Equipment-to-Kramden-Institute" } ] }
