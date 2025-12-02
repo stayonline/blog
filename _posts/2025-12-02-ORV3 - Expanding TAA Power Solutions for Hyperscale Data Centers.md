@@ -21,7 +21,7 @@ This expansion supports hyperscale operators, government buyers, and integrators
 
 The **Trade Agreements Act (TAA)** restricts government procurement to products made in the U.S. or designated countries.  For federal agencies, government-affiliated data centers, and defense-related integrators, TAA compliance is not optional.
 
-<img src="/assets/images/posts/TAA.png" alt="TAA Logo" />
+<img src="/assets/images/posts/TAA.png" alt="TAA Logo" /> 
 
 
 StayOnline maintains a dedicated line of **TAA-compliant power cords**, produced in our **North Carolina, USA** facility, where we terminate connectors on U.S. wire.
