@@ -11,7 +11,7 @@ thumbnail:
 ---
 StayOnline has long been a [go-to resource](https://www.stayonline.com/Product-Resources/) for those seeking to learn about power cords. Our resource center has been online since the early 2000s and has become a trusted authority for technical information about power cords. Today, we’re expanding on the information found in our [IEC 320 Reference Chart](https://www.stayonline.com/product-resources/reference-iec320.asp).
 
-<img src="/assets/images/posts/C13-C14.jpg" alt="C14/C13 Diagram" />
+<img src="/assets/images/posts/C13-C14.png" alt="C14/C13 Example" />
 
 **IEC 60320**, commonly referred to as _IEC 320_, is a set of international standards that define non-locking[^1] appliance couplers. Published by the International Electrotechnical Commission, IEC 60320 plugs and connectors are widely used in both consumer and commercial electrical equipment. Even if you’ve never heard the term “IEC cord,” you almost certainly use one to power a computer, laptop, printer, or television.
 
