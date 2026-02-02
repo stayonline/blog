@@ -22,7 +22,6 @@ SecureLock power cords, designed to work with Raritan's intelligent PX series iP
 
 Available in black, blue, red, white, and yellow for redundant power path identification, SecureLock power cords come in multiple lengths and configurations to meet diverse data center requirements. 
 
-
 Contact sales@stayonline.com for more information or [view Raritan SecureLock power cords](https://www.stayonline.com/raritan/) online.
 
 
