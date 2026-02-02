@@ -20,7 +20,8 @@ StayOnline has distributed **certified** Raritan SecureLock power cords in the U
 
 SecureLock power cords, designed to work with Raritan's intelligent PX series iPDUs, feature a push-to-lock, pinch-to-release mechanism that prevents accidental disconnections from vibration or human error, increasing uptime in mission-critical environments. 
 
-Available in black, blue, red, white, and yellow for redundant power path identification, SecureLock power cords come in multiple lengths and configurations to meet diverse data center requirements.
+Available in black, blue, red, white, and yellow for redundant power path identification, SecureLock power cords come in multiple lengths and configurations to meet diverse data center requirements. 
+
 
 Contact sales@stayonline.com for more information or [view Raritan SecureLock power cords](https://www.stayonline.com/raritan/) online.
 
