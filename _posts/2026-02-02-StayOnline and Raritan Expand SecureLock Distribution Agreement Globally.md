@@ -16,7 +16,7 @@ StayOnline has distributed **certified** Raritan SecureLock power cords in the U
 
 - Certified cords are verified by Raritan to work seamlessly with their PX series iPDUs    
 - Eliminates risk of counterfeit or incompatible products that could fail in critical moments.
-- Ensures proper locking to iPhone
+- Ensures locking mechanism functions as engineered.
 
 SecureLock power cords, designed to work with Raritan's intelligent PX series iPDUs, feature a push-to-lock, pinch-to-release mechanism that prevents accidental disconnections from vibration or human error, increasing uptime in mission-critical environments. 
 
