@@ -45,6 +45,7 @@ The code is made up of three parts:
 
 Here is a table with some common (and not so common) NEMA configurations.
 
+
 | NEMA Code   | Voltage  | Amps | Type     | Typical Applications                                                          |
 | ----------- | -------- | ---- | -------- | ----------------------------------------------------------------------------- |
 | **5-15P**   | 125V     | 15A  | Straight | Standard household appliances, office equipment, lamps                        |
@@ -59,6 +60,7 @@ Here is a table with some common (and not so common) NEMA configurations.
 | **14-50P**  | 125/250V | 50A  | Straight | Electric ranges, RV shore power, EV chargers                                  |
 | **L21-20P** | 120/208V | 20A  | Locking  | Portable power distribution for events                                        |
 | **L21-30P** | 120/208V | 30A  | Locking  | Industrial machinery, temporary power systems                                 |
+
 For a complete guide of NEMA configurations, our [locking](https://www.stayonline.com/product-resources/nema-locking-reference-chart.asp) and [straight blade](https://www.stayonline.com/product-resources/nema-straight-blade-reference-chart.asp) reference charts.
 # What about IEC?
 
@@ -70,6 +72,7 @@ IEC nomenclature is also straightforward once you know what to look for.  For IE
 
 Below is a table with the most common IEC 60320 configurations.
 
+
 | IEC Code    | Max Voltage | Temp Rating | Typical Applications                                            |
 | ----------- | ----------- | ----------- | --------------------------------------------------------------- |
 | **C5/C6**   | 250V        | 70°C        | Laptop power adapters (“Mickey Mouse” connector)                |
@@ -78,6 +81,7 @@ Below is a table with the most common IEC 60320 configurations.
 | **C15/C16** | 250V        | 120°C       | Electric kettles, some networking equipment (heat-resistant)    |
 | **C19/C20** | 250V        | 70°C        | Servers, PDUs, high-current IT equipment                        |
 | **C21/C22** | 250V        | 155°C       | High-temp industrial and IT equipment                           |
+
 ### IEC 60309
 
 IEC 60309 are typically for more industrial applications than IEC 60320.  Commonly referred to as pin and sleeve plugs, IEC309 plugs follow a clockface pin positioning system which ensures that only compatible connections are made.  Naming conventions follow the following format.
