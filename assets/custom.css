@@ -84,3 +84,33 @@ button {
 button:hover {
   background-color: #0056b3;
 }
+
+h2 {
+  color: #333;
+  margin-top: 1.5rem;
+  border-bottom: 2px solid #eee;
+}
+
+.collapsed h2 {
+  cursor: pointer;
+}
+
+.collapsed h2::after {
+  content: '▶';
+  float: right;
+  font-size: 0.75em;
+  line-height: 1.8;
+  transition: transform 0.2s ease;
+}
+
+.collapsed.expanded h2::after {
+  transform: rotate(90deg);
+}
+
+.collapsed > *:not(h2) {
+  display: none;
+}
+
+.collapsed.expanded > *:not(h2) {
+  display: revert;
+}
