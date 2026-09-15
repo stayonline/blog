@@ -11,11 +11,11 @@ tags:
   - safety
   - technical-knowledge
 description: Does a Cord Made from UL Components Count as UL Listed? Find out in the first of our series on UL power cords.
-author: jim-smits
+author: jacob-bechtol
 thumbnail:
 ---
 
- Join us in our series of blog posts as we explore why UL listed parts do not automatically make a cord UL listed (this post), the anatomy of a UL cord (which standards cover which components), and finally, what a cord must survive to become UL listed.
+ Join us in our series of blog posts as we explore why UL listed parts do not automatically make a cord UL listed (this post), <a href="/2026/09/15/The-Anatomy-of-a-UL-Power-Cord.html">the anatomy of a UL cord</a> (which standards cover which components), and finally, what a cord must survive to become UL listed.
 
 ## Does a Cord Made from UL Components Count as UL Listed? 
 
