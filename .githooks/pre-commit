@@ -1,0 +1,12 @@
+#!/bin/bash
+# Regenerates tag pages and the tag graph before every commit so the deploy
+# always includes up-to-date derived data, then re-stages the output.
+set -euo pipefail
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+cd "$REPO_ROOT"
+
+./generate_tags.sh
+./generate-tag-graph.sh
+
+git add tags/ assets/data/tags-graph.json
